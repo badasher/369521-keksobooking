@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Баданов](https://up.htmlacademy.ru/javascript/9/user/369521).
-* Наставник: `Неизвестно`.
+* Наставник: `Николай Яшин`.
 
 ---
 
